@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.start-aligned {
+  text-align: left; /* Align text at the start */
+  margin-left: 0; /* Remove any left margin */
+}
